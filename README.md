@@ -1,2 +1,14 @@
-# To-do-list-
-A to do list made in java swing , with aim of assisting user manage their tasks .
+## Features - Add new tasks to the list.
+- Display all tasks in a text area.
+- Save tasks using a button click.
+- Colorful and user-friendly interface.
+
+  ## Usage:
+  
+Open the application.
+
+Enter your tasks in the provided text field.
+
+Click the "Save Task" button to add the task to the list.
+
+View all your tasks in the text area.
